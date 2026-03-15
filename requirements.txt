@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas<3
+numpy<2.2.0
+torch
+joblib
+plotly
+pandas_ta
+pennylane
+scikit-learn
